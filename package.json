@@ -3,7 +3,7 @@
   "description": "A modular and scalable Angular web application codebase, featuring reusable components, robust state management, and a well-structured architecture optimized for large-scale web development",
   "version": "0.0.1",
   "license": "MIT",
-  "private": true,
+  "main": "src/main.ts",
   "author": {
     "name": "Harry",
     "email": "harrydng1209@gmail.com",
